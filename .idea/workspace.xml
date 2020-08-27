@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1542111-eaa0-436e-900d-e14923670770" name="Default Changelist" comment="" />
+    <list default="true" id="b1542111-eaa0-436e-900d-e14923670770" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo_array/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo_array/algo_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo_array/algo_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo_array/algo_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo_str/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo_str/algo_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo_str/algo_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo_str/algo_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo_str/algo_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo_str/algo_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo_str/algo_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar.py" beforeDir="false" afterPath="$PROJECT_DIR$/grammar.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +31,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1f8iZA3fceHSwl7YTu3SEDlhTT2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,9 +45,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Python.grammar">
-    <configuration name="algo1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.algo_9">
+    <configuration name="algo_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -32,11 +57,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo_str" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo_str/algo_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -45,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="grammar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="algo_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +78,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo_str" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grammar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo_str/algo_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="algo_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo_array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo_array/algo_7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="algo_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo_array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo_array/algo_8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="algo_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo_array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo_array/algo_9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,11 +156,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.grammar" />
-        <item itemvalue="Python.algo1" />
+        <item itemvalue="Python.algo_9" />
+        <item itemvalue="Python.algo_8" />
+        <item itemvalue="Python.algo_7" />
+        <item itemvalue="Python.algo_6" />
+        <item itemvalue="Python.algo_5" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -87,37 +179,75 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2539" height="386" key="GridCell.Tab.0.bottom" timestamp="1595664172729">
+    <state width="2539" height="474" key="GridCell.Tab.0.bottom" timestamp="1598515931694">
       <screen x="0" y="23" width="2560" height="1349" />
     </state>
-    <state width="2539" height="386" key="GridCell.Tab.0.bottom/0.23.2560.1349/-1680.23.1680.1027@0.23.2560.1349" timestamp="1595664172729" />
-    <state width="2539" height="386" key="GridCell.Tab.0.center" timestamp="1595664172728">
+    <state width="2539" height="474" key="GridCell.Tab.0.bottom/0.23.2560.1349/-1680.158.1680.1027/2560.166.1920.1057@0.23.2560.1349" timestamp="1598515931694" />
+    <state width="2539" height="386" key="GridCell.Tab.0.bottom/0.23.2560.1349/-1680.23.1680.1027@0.23.2560.1349" timestamp="1598451519683" />
+    <state width="2539" height="474" key="GridCell.Tab.0.center" timestamp="1598515931694">
       <screen x="0" y="23" width="2560" height="1349" />
     </state>
-    <state width="2539" height="386" key="GridCell.Tab.0.center/0.23.2560.1349/-1680.23.1680.1027@0.23.2560.1349" timestamp="1595664172728" />
-    <state width="2539" height="386" key="GridCell.Tab.0.left" timestamp="1595664172728">
+    <state width="2539" height="474" key="GridCell.Tab.0.center/0.23.2560.1349/-1680.158.1680.1027/2560.166.1920.1057@0.23.2560.1349" timestamp="1598515931694" />
+    <state width="2539" height="386" key="GridCell.Tab.0.center/0.23.2560.1349/-1680.23.1680.1027@0.23.2560.1349" timestamp="1598451519683" />
+    <state width="2539" height="474" key="GridCell.Tab.0.left" timestamp="1598515931693">
       <screen x="0" y="23" width="2560" height="1349" />
     </state>
-    <state width="2539" height="386" key="GridCell.Tab.0.left/0.23.2560.1349/-1680.23.1680.1027@0.23.2560.1349" timestamp="1595664172728" />
-    <state width="2539" height="386" key="GridCell.Tab.0.right" timestamp="1595664172729">
+    <state width="2539" height="474" key="GridCell.Tab.0.left/0.23.2560.1349/-1680.158.1680.1027/2560.166.1920.1057@0.23.2560.1349" timestamp="1598515931693" />
+    <state width="2539" height="386" key="GridCell.Tab.0.left/0.23.2560.1349/-1680.23.1680.1027@0.23.2560.1349" timestamp="1598451519682" />
+    <state width="2539" height="474" key="GridCell.Tab.0.right" timestamp="1598515931694">
       <screen x="0" y="23" width="2560" height="1349" />
     </state>
-    <state width="2539" height="386" key="GridCell.Tab.0.right/0.23.2560.1349/-1680.23.1680.1027@0.23.2560.1349" timestamp="1595664172729" />
-    <state width="2539" height="474" key="GridCell.Tab.1.bottom" timestamp="1595644987272">
+    <state width="2539" height="474" key="GridCell.Tab.0.right/0.23.2560.1349/-1680.158.1680.1027/2560.166.1920.1057@0.23.2560.1349" timestamp="1598515931694" />
+    <state width="2539" height="386" key="GridCell.Tab.0.right/0.23.2560.1349/-1680.23.1680.1027@0.23.2560.1349" timestamp="1598451519683" />
+    <state width="2539" height="474" key="GridCell.Tab.1.bottom" timestamp="1598515932019">
       <screen x="0" y="23" width="2560" height="1349" />
     </state>
+    <state width="2539" height="474" key="GridCell.Tab.1.bottom/0.23.2560.1349/-1680.158.1680.1027/2560.166.1920.1057@0.23.2560.1349" timestamp="1598515932019" />
     <state width="2539" height="474" key="GridCell.Tab.1.bottom/0.23.2560.1349/-1680.23.1680.1027@0.23.2560.1349" timestamp="1595644987272" />
-    <state width="2539" height="474" key="GridCell.Tab.1.center" timestamp="1595644987271">
+    <state width="2539" height="474" key="GridCell.Tab.1.center" timestamp="1598515932018">
       <screen x="0" y="23" width="2560" height="1349" />
     </state>
+    <state width="2539" height="474" key="GridCell.Tab.1.center/0.23.2560.1349/-1680.158.1680.1027/2560.166.1920.1057@0.23.2560.1349" timestamp="1598515932018" />
     <state width="2539" height="474" key="GridCell.Tab.1.center/0.23.2560.1349/-1680.23.1680.1027@0.23.2560.1349" timestamp="1595644987271" />
-    <state width="2539" height="474" key="GridCell.Tab.1.left" timestamp="1595644987271">
+    <state width="2539" height="474" key="GridCell.Tab.1.left" timestamp="1598515932018">
       <screen x="0" y="23" width="2560" height="1349" />
     </state>
+    <state width="2539" height="474" key="GridCell.Tab.1.left/0.23.2560.1349/-1680.158.1680.1027/2560.166.1920.1057@0.23.2560.1349" timestamp="1598515932018" />
     <state width="2539" height="474" key="GridCell.Tab.1.left/0.23.2560.1349/-1680.23.1680.1027@0.23.2560.1349" timestamp="1595644987271" />
-    <state width="2539" height="474" key="GridCell.Tab.1.right" timestamp="1595644987271">
+    <state width="2539" height="474" key="GridCell.Tab.1.right" timestamp="1598515932019">
       <screen x="0" y="23" width="2560" height="1349" />
     </state>
+    <state width="2539" height="474" key="GridCell.Tab.1.right/0.23.2560.1349/-1680.158.1680.1027/2560.166.1920.1057@0.23.2560.1349" timestamp="1598515932019" />
     <state width="2539" height="474" key="GridCell.Tab.1.right/0.23.2560.1349/-1680.23.1680.1027@0.23.2560.1349" timestamp="1595644987271" />
+    <state x="781" y="336" key="SettingsEditor" timestamp="1597591479056">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state x="781" y="336" key="SettingsEditor/0.23.2560.1349/-1680.158.1680.1027/2560.166.1920.1057@0.23.2560.1349" timestamp="1596271761142" />
+    <state x="781" y="336" key="SettingsEditor/0.23.2560.1349/-1680.23.1680.1027@0.23.2560.1349" timestamp="1597591479056" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1598515742728">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/0.23.2560.1349/-1680.158.1680.1027/2560.166.1920.1057@0.23.2560.1349" timestamp="1598515742728" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/algo_array/algo_9.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/algo_array/algo_9.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/algo_array/algo_9.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
