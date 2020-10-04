@@ -1,6 +1,7 @@
 # 세 수의 합
 # 배열을 입력받아 합으로 0을 만들 수있는 3개의 엘리먼트들을 출력하라.
 # https://leetcode.com/problems/3sum/
+import time
 from typing import List, Tuple
 
 nums = [0, 0, -1, 0, 1, 2, -1, 0, -4, 0]
@@ -11,6 +12,7 @@ nums = [0, 0, -1, 0, 1, 2, -1, 0, -4, 0]
 # 2. 하나의 축(i)을 기준으로 두고, n-2 만큼 반복
 # 3.
 def threeSum(nums: List[int]) -> List[Tuple[int, int, int]]:
+    start = time.time()
     results = []
     nums.sort()
     for i in range(len(nums) - 2):
@@ -37,6 +39,8 @@ def threeSum(nums: List[int]) -> List[Tuple[int, int, int]]:
                     right -= 1
                 left += 1
                 right -= 1
+    end = time.time()
+    print("EX_TIME: {}초".format((end - start) * 1000))
     return results
 
 
